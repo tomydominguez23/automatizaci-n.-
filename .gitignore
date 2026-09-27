@@ -1,0 +1,8 @@
+.env
+.venv/
+.DS_Store
+oracle.key
+__pycache__/
+*.pyc
+data/
+credenciales/
